@@ -1,4 +1,4 @@
-Minesweeper game written with together [krolikladoshka](https://github.com/krolikladoshka)
+Minesweeper game written together with [krolikladoshka](https://github.com/krolikladoshka)
 ### Instruction:
 Opening the cage - left mouse button.
 Check the box - right mouse button. If you press the right mouse button again, a question mark will be placed.
