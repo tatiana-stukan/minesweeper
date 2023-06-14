@@ -1,6 +1,6 @@
-Minesweeper game written together with [krolikladoshka](https://github.com/krolikladoshka)
+Minesweeper game written with pygame together with [krolikladoshka](https://github.com/krolikladoshka)
 ### Instruction:
-Opening the cage - left mouse button.\
+Opening the cell - left mouse button.\
 Check the box - right mouse button. If you press the right mouse button again, a question mark will be placed.\
 Cells with a flag or a question mark cannot be opened. To remove a flag or a question mark, you need to press the right mouse button twice or once, respectively.\
 To start the game over - press the "R" key.
