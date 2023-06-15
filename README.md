@@ -1,4 +1,4 @@
-Minesweeper game written with pygame together with [krolikladoshka](https://github.com/krolikladoshka)
+Minesweeper game written using pygame together with [krolikladoshka](https://github.com/krolikladoshka)
 ### Instruction:
 Opening the cell - left mouse button.\
 Check the box - right mouse button. If you press the right mouse button again, a question mark will be placed.\
